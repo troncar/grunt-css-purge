@@ -32,7 +32,7 @@
 	},
 	"dependencies": {
 		"chalk": "~2.3.0",
-		"css-purge": "~3"
+		"css-purge": "^3.1.8"
 	},
 	"devDependencies": {
 		"grunt-contrib-clean": "~1.1.0",
