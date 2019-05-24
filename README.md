@@ -16,7 +16,7 @@ contact [css-purge](https://github.com/rbtech/css-purge/issues). Please only cre
 ## Install
 
 ```
-npm install grunt-css-purge --save-dev
+npm install grunt-copy-css-purge --save-dev
 ```
 
 
